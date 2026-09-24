@@ -154,6 +154,9 @@ Si se responde con otra opción, el programa cancela la operación.
 
 Esta medida busca evitar el uso del programa sobre equipos o redes sin autorización.
 
+<img width="511" height="222" alt="image" src="https://github.com/user-attachments/assets/784dfd99-28e6-40e1-8d47-d4236ea4af70" />
+
+
 ---
 
 # 7. Ingresar la dirección IP
