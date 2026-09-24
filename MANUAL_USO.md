@@ -62,7 +62,8 @@ Debe aparecer la versión instalada de Python.
 
 **Captura:**
 
-<img width="263" height="138" alt="image" src="https://github.com/user-attachments/assets/58b88b12-b1c6-4f57-b675-660889e2fd42" />
+<img width="300" height="147" alt="image" src="https://github.com/user-attachments/assets/8e6feda5-f55f-4a15-af9a-269d275f5c59" />
+
 
 
 ---
@@ -188,7 +189,7 @@ Si la dirección no es válida, el programa mostrará un mensaje de error y soli
 
 **Captura:**
 
-<img width="447" height="127" alt="image" src="https://github.com/user-attachments/assets/186fd390-c0b6-4dc4-a526-4fa5342dfb71" />
+<img width="424" height="130" alt="image" src="https://github.com/user-attachments/assets/f298cc45-1ede-49de-a076-5e87a34a0ecb" />
 
 
 ---
@@ -220,7 +221,8 @@ Por ejemplo:
 
 **Captura:**
 
-<img width="413" height="94" alt="image" src="https://github.com/user-attachments/assets/cf554c22-73e7-4798-a806-0ae5a6c2d20f" />
+<img width="425" height="97" alt="image" src="https://github.com/user-attachments/assets/8cb96ef7-2624-4891-beaf-0a18da8282af" />
+
 
 
 ---
@@ -248,7 +250,8 @@ Si se introduce un valor fuera del rango permitido o un dato que no sea un núme
 
 **Captura:**
 
-<img width="417" height="92" alt="image" src="https://github.com/user-attachments/assets/a3bac95e-b742-4975-be15-3a3d43e68b33" />
+<img width="410" height="90" alt="image" src="https://github.com/user-attachments/assets/40afb1c4-886b-49de-83d0-72276966a7c7" />
+
 
 
 ---
@@ -306,7 +309,8 @@ El método `connect_ex()` utilizado por el programa devuelve `0` cuando la conex
 
 **Captura:**
 
-<img width="448" height="194" alt="image" src="https://github.com/user-attachments/assets/b39bb2ab-8c43-4af8-9e50-ce7542942da1" />
+<img width="408" height="196" alt="image" src="https://github.com/user-attachments/assets/33f96ba1-876b-40c3-a07a-25ff7ffea9f3" />
+
 
 
 ---
@@ -433,6 +437,9 @@ Puerto 80    | Servicio aproximado: HTTP
 ```
 
 **Nota:** Los resultados anteriores son únicamente un ejemplo.
+
+<img width="468" height="502" alt="image" src="https://github.com/user-attachments/assets/d39055b3-db6d-4070-8737-5270e1379869" />
+
 
 ---
 
