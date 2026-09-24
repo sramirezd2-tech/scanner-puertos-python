@@ -124,7 +124,7 @@ Para consultar las instrucciones detalladas de instalación, ejecución e interp
 
 
 ```text
-[Repositorio del proyecto](https://github.com/sramirezd2-tech/scanner-puertos-python.git)
+https://github.com/sramirezd2-tech/scanner-puertos-python.git
 ```
 
 ---
